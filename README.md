@@ -1,0 +1,2 @@
+# Kindle_Review_Sentiment_Classification_with_NLP_and_Neural_Networks
+Kindle Review Sentiment Classification with NLP, Neural Networks, and ML Models This project classifies sentiments in Kindle reviews using NLP and models like SVM, Random Forests, and Neural Networks. Review text is preprocessed, tokenized, and transformed into features, allowing the models to predict whether reviews are positive or negative.
